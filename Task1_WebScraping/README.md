@@ -4,7 +4,7 @@
 An automated web scraping pipeline built to harvest e-commerce catalog information across 50 paginated index pages (1,000 distinct items) from `books.toscrape.com`. The script navigates dynamic pagination, parses hierarchical DOM nodes using `BeautifulSoup`, cleans messy character encodings, and structures the output into an analytical CSV dataset.
 
 ## 🎬 Video Demonstration
-🎥 [Watch the Video Demonstration on LinkedIn](PASTE_YOUR_LINKEDIN_POST_LINK_HERE)
+🎥 [Watch the Video Demonstration on LinkedIn](https://lnkd.in/p/dgRimHCP)
 
 ## Features & Schema Extracted
 * **Title:** Full book title parsed from nested DOM attributes.
