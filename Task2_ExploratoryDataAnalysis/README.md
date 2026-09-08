@@ -3,6 +3,9 @@
 ## Project Overview
 An exploratory data analytics investigation analyzing 1,000 retail transaction records. The analysis identifies key revenue engines, isolates purchasing demographics, monitors seasonal transaction velocity, cleans anomalies via the IQR rule, and conducts statistical hypothesis testing.
 
+## 🎬 Video Demonstration
+🎥 [Watch the Video Demonstration on LinkedIn](https://lnkd.in/p/dWYT5-xz)
+
 ## Exploratory Questions Addressed
 * How does gross revenue break down across product categories?
 * What are the demographic age distributions across purchasing groups?
