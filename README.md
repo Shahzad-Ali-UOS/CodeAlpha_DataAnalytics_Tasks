@@ -1,9 +1,8 @@
 # CodeAlpha Data Analytics Tasks
+Task submissions and practical deliverables for the CodeAlpha Virtual Internship — Data Analytics Track[cite: 1].
 
-Repository containing completed projects for the Virtual Data Analytics Internship at **CodeAlpha**.
-
-| Task | Title | Tech Stack | Code Link | Video Demo |
-| :---: | :--- | :--- | :---: | :---: |
-| **Task 1** | Web Scraping & Pipeline | Python, BeautifulSoup, Requests, Pandas | [View Folder](./Task1_WebScraping) | [LinkedIn Demo](LINK_TO_TASK_1_POST) |
-| **Task 2** | Exploratory Data Analysis (EDA) | Pandas, Seaborn, Matplotlib, SciPy | [View Folder](./Task2_ExploratoryDataAnalysis) | [LinkedIn Demo](LINK_TO_TASK_2_POST) |
-| **Task 4** | Sentiment Analysis | NLTK, VADER, TextBlob, WordCloud | *In Progress* | *Coming Soon* |
+| Task # | Project Title | Model / Technique | Code / Notebook | Video Demo | Status |
+| :---: | :--- | :--- | :---: | :---: | :---: |
+| **Task 1** | Web Scraping & Pipeline | BeautifulSoup / Requests & DOM Parsing | [View Task](./Task1_WebScraping) | [Watch Demo](PASTE_TASK_1_LINKEDIN_URL_HERE) | Completed |
+| **Task 2** | Exploratory Data Analysis (EDA) | Statistical Hypothesis Testing & IQR Anomaly Detection | [View Task](./Task2_ExploratoryDataAnalysis) | [Watch Demo](PASTE_TASK_2_LINKEDIN_URL_HERE) | Completed |
+| **Task 4** | Sentiment Analysis | NLTK / VADER & Lexicon-based NLP | [View Task](./Task4_SentimentAnalysis) | [Watch Demo](PASTE_TASK_4_LINKEDIN_URL_HERE) | In Progress |
