@@ -16,7 +16,7 @@ An interactive visual analytics suite delivering business intelligence for an in
 * **Logistics Efficiency:** Standard Class provides predictable cost distribution, while Same Day shipping adds significant cost variance with minimal sales volume lift.
 
 ## 🎬 Video Demonstration
-🎥 [Watch the Video Demonstration on LinkedIn](PASTE_YOUR_LINKEDIN_POST_LINK_HERE)
+🎥 [Watch the Video Demonstration on LinkedIn](https://lnkd.in/p/dnBXGRm3)
 
 ## Tech Stack
 * **Language:** Python
